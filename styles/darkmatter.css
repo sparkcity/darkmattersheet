@@ -17,3 +17,10 @@
     min-width: 600px;
     min-height: 746px;
   }
+
+input.customskill {
+    width: 20px;
+  }
+.dnd5e.sheet.actor ul.skills-list li.skill .skill-mod.custom {
+    flex: 0 0 50px;
+  }
